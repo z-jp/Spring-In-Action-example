@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Spitter</title>
-    <link rel="stylesheet" type="text/css" href="<c:url value="rstyle.css" />">
+    <link rel="stylesheet" type="text/css" href="<c:url value="/resources/style.css" />">
 </head>
 <body>
 <h1>Your Profile</h1>
