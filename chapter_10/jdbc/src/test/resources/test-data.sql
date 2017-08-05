@@ -1,10 +1,10 @@
-INSERT INTO Spitter (username, password, fullname, email, updateByEmail)
+INSERT INTO Spitter (username, password, fullName, email, updateByEmail)
 VALUES ('habuma', 'password', 'Craig Walls', 'craig@habuma.com', FALSE);
-INSERT INTO Spitter (username, password, fullname, email, updateByEmail)
+INSERT INTO Spitter (username, password, fullName, email, updateByEmail)
 VALUES ('mwalls', 'password', 'Michael Walls', 'mwalls@habuma.com', TRUE);
-INSERT INTO Spitter (username, password, fullname, email, updateByEmail)
+INSERT INTO Spitter (username, password, fullName, email, updateByEmail)
 VALUES ('chuck', 'password', 'Chuck Wagon', 'chuck@habuma.com', FALSE);
-INSERT INTO Spitter (username, password, fullname, email, updateByEmail)
+INSERT INTO Spitter (username, password, fullName, email, updateByEmail)
 VALUES ('artnames', 'password', 'Art Names', 'art@habuma.com', TRUE);
 
 INSERT INTO Spittle (spitterId, message, postedTime)
